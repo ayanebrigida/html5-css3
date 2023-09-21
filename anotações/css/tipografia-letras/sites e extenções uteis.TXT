@@ -1,0 +1,29 @@
+sites:
+	fonts.google.com - copiar "@import url..." colar dentro de <style>
+	dafont.com
+	whatfontis.com
+	fontsquirrel.com
+	myfonts.com
+
+Extenção: 
+	fonts ninja
+
+
+
+para font externa
+colocar regra @font-face {
+            font-family: 'nome escolhido';
+            src: url(nome do arquivo) format(nome do formato);
+            font-weight: normal;
+            font-style: normal;
+
+	 Tipos de format()
+                - opentype (otf)
+                - truetype (ttf)
+                - embedded-opentype
+                - truetype-aat (Apple Advanced Typography)
+                - svg
+
+
+            
+

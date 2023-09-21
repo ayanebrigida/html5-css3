@@ -1,0 +1,47 @@
+Criar cód. base Html:  -> digita e seleciona ! ou html:5
+
+Na cabeça(head):
+	lembrar de alterar lang="en" para "pt-br"
+	link:favicon dentro do cabeçalho acima de title - exibe o icone na aba
+	<title> editar nome que aparecerá na aba
+
+Corpo (Body):
+	<header> cabeçalho do site
+	<main> conteúdo principal
+ 	</section> seção dentro do conteúdo
+ 	<article> artigo dentro do conteúdo
+   	<aside> algo relativo ao artigo por ex: referencia 
+	<footer> rodapé do site
+
+<nav> menu,links, navegação
+<H1> Títulos nível 1 </H1> h2 para nível 2 e assim sucessivamente até h6
+<P> Para parágrafos </p>
+<hr> Que cria uma Linha horizontal “Legal pra por embaixo de Título.”
+<Br> Para quebra de linha no meio do parágrafo
+<pre> Exibe o texto da forma que foi digitado(com as quebras de linha)
+
+sem valor semantico
+	<span>	->	apenas seleciona um trecho do texto
+	<div>	->	é um espaço qualquer
+
+adc link:
+	<a href="adc o link externo" target="_blank"(abre nova aba/guia) 
+	rel="external"> adc a frase de acesso p o link</a>
+	<a href="outra pag dentro do mesmo doc" rel="next"(próx) ou 
+	rel="prev"(anterior)>frase de acesso</a>
+	<a href="../para voltar uma pasta">Voltar para a primeira página</a>
+
+link p/ download:
+	<a href="endereço do arquivo" download="nome do arquivo" 
+	type="application/tipo de arquivo">frase de acesso</a>
+
+listas:
+	<ol> - listas ordenadas    type=  escolhe qual o tipo 1-a-A-I
+	<ul> - não ordenadas               
+	dt e dd - lista de definições
+
+<abrr> - abreviações <abbr title = "significado">abreviação</abbr>
+
+
+Pesquisar parametros
+https://www.iana.org/assignments/media-types/media-types.xhtml  cod p/parametros

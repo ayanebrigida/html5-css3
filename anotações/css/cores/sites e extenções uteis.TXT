@@ -1,0 +1,7 @@
+extenção:
+	colorzilla
+
+sites:
+	paletton.com
+	color.adobe.com
+	coolors.com

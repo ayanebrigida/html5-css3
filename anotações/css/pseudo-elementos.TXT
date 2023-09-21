@@ -1,0 +1,12 @@
+Representadas por:
+
+  ex:  	::before
+	::after
+
+os pseudos-elementos funcionam para os elementos(id) e para as classes
+  ex: 	.nomedaclasse::before {
+            content: '⇒ ';
+        }
+
+        .nomedaclasse::after {
+            content: ' ⇐';

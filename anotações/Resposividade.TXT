@@ -1,0 +1,22 @@
+Extenção: window resizer
+
+Ex:
+	main {
+    		min-width: 320px;
+    		max-width: 1000px;
+    		margin: auto;
+	}
+
+	main img {
+    		width: 100%;
+	}
+
+	main img.pequena {
+        width: 50%;
+        display: block;		Para diminuir img
+        margin: auto;
+	}
+
+	iframe {
+    		width: 100%;
+	}

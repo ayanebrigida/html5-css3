@@ -1,0 +1,33 @@
+sombra:
+	box-shadow
+ex:
+	box-shadow: 2px 2px 4px 1px rgba(0, 0, 0, 0.37);
+
+	box-shadow: 2px = deslocamento x
+		    2px = deslocamento y
+		    4px = desfocar
+		    1px = extensão
+		    rgba(0, 0, 0, 0.37); = preto sempre com transparencia < 50%
+
+arredondamento:
+	border-radius
+ex:
+	border-radius: 10px 0px;
+
+	border-top-left-radius: 10px;
+    	border-top-right-radius: 0px;
+    	border-bottom-right-radius: 10px;
+    	border-bottom-left-radius: 0px;
+
+borda personalizada:
+	border-image
+ex:
+	border-image: url('bordapng.png') 27 repeat;
+	
+	border-image-source: url('bordapng.png');
+        border-image-slice: 27;
+        border-image-repeat: repeat;
+
+
+utilizar DevTools "inspensionar" 
+	para auxiliar na posição correta e copiar a referencia dos px 

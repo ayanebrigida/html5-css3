@@ -1,0 +1,18 @@
+   id = # 
+	pode ter mais de um id na página
+	O que não pode é utilizar dois com o mesmo nome / texto no id
+	
+  classes = .
+	quando temos duas unidades de elementos ou mais e queremos 
+	aplicar uma configuração personalizada de estilo em todas elas
+	VÁRIAS UNIDADES DE ELEMENTOS COM UMA MESMA CLASSE - NOME/TEXTO
+
+Pode usar mais de uma class na mesma tag (separadas sem vírgula):
+
+	<h2 class="avancado destaque">CSS avançado</h2>
+
+Pode usar id e class juntos na mesma tag:
+
+	<h1 id="principal" class="destaque">Criando Sites com HTML e CSS</h1>
+
+       -> Na ordem de prioridade, a class vem antes do id.

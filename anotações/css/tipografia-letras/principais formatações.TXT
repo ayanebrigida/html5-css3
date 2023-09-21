@@ -1,0 +1,17 @@
+Formatação - tag
+
+Negrito - b (não semântica)
+Destaque - strong
+
+Itálico - i (não semântica)
+Ênfase - em
+
+Sublinhado - u (não semântica)
+Texto inserido - ins
+
+Texto marcado - mark
+Texto grande - big (obsoleto) 
+Texto pequeno - small
+Texto deletado - del
+Texto sobrescrito - sup
+Texto subscrito - sub

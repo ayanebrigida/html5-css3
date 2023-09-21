@@ -1,0 +1,20 @@
+html = semântica = significado
+significa - HyperText Markup Language
+
+css = forma/estilo
+significa - Cascading Style Sheets
+
+HTML
+Linguagem de marcação para a criação do conteúdo de um site.
+CSS
+Linguagem de marcação para a criação do design de um site.
+JavaScript
+Linguagem de programação para a criação de interatividade de um site.
+
+
+
+
+
+
+
+verificar tags obsoletas da html no site w3.org

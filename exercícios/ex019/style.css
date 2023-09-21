@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/*
+    em HTML é id e em CSS é # só pode ser usado 1x
+    em HTML é class e em CSS é . pode ser usado várias x
+*/
+body {
+    background-color: rgb(205, 255, 203);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(4, 109, 0);
+}
+
+h1#principal { /* seletor personalizado */
+    text-align: center;
+    background-color: rgb(4, 109, 0);
+    color: white;
+}
+
+h2 {
+    color: rgb(51, 77, 49);
+}
+
+.basico {
+    color: rgb(91, 167, 86);
+}
+
+.intermediario {
+    color: rgb(168, 177, 46);
+}
+
+.avancado {
+    color: rgb(170, 48, 48);
+}  
+
+.destaque {
+    background-color: rgba(197, 197, 107, 0.432);
+}

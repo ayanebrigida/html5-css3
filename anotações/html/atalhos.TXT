@@ -1,0 +1,14 @@
+Atalhos:
+	-"ctrl+espaço" entre "" para adc os arquivos dentro da mesma pasta do doc html 
+
+	-"ctrl+shift+p" digitar "abb" e a tag desejada
+	-para adc tag ao texto selecionado 
+
+	-ul>li*3>a depois que apertar a tecla tab ele ficará da seguinte forma:
+	<ul>
+        <li><a href=" "></a></li>
+        <li><a href=" "></a></li>
+        <li><a href=" "></a></li>
+	</ul>
+
+	-ctrl + ] divide a tela do visual code
