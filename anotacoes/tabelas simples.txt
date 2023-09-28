@@ -1,5 +1,6 @@
 HIERARQUIA DE TABELAS (simples)
         TABLE = tabela
+	caption = legenda da tabela	
             tr TABLE ROW = linha de tabela
                 th TABLE HEADER = cabeçalho de tabela
                 td TABLE DATA = dado de tabela
