@@ -1,0 +1,23 @@
+HIERARQUIA DE TABELAS (simples)
+        TABLE = tabela
+            tr TABLE ROW = linha de tabela
+                th TABLE HEADER = cabeçalho de tabela
+                td TABLE DATA = dado de tabela
+ex:
+   <table>
+        <tr> <!-- Primeira linha -->
+            <td>A1</td>
+            <td>B1</td>
+            <td>C1</td>
+        </tr>
+        <tr> <!-- Segunda linha -->
+            <td>A2</td>
+            <td>B2</td>
+            <td class="numero">C2</td>
+        </tr>
+   </table>
+
+obs css
+	text-align: center; /* Alinhamento horizontal */
+        vertical-align: middle; /*Alinhamento vertical*/
+	border-collapse: collapse; /*junta as bordas*/
