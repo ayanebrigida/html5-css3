@@ -1,0 +1,27 @@
+ex: 
+	<table>
+            <caption>legenda</caption>
+            <thead> *cabeça
+              <tr>
+                <th scope="col">cabeçalho</th>
+              </tr>
+           </thead>
+            <tbody> *corpo
+                <tr>
+		     <td>dado</td>
+                </tr>
+            </tbody>
+    	</table>
+
+ex: tabela responsiva
+	
+html:	<div id="container">
+        	<table>
+
+        	</table>
+    	</div>
+
+css:	#container {
+            overflow-x: auto;
+        }
+

@@ -1,0 +1,42 @@
+Shorthand - background
+                color > image > position > repeat > [size] > attachment
+
+ex: fundo fixo
+
+	background: black url() center center no-repeat fixed;
+        background-size: cover;
+
+
+ex: alinhamento vertical
+	
+	html: 
+	      <body>
+    		<section id="container">
+        		<article id="conteudo">
+
+        		</article>
+    		</section>
+	      </body>
+
+	css:
+	op1:
+		#container {
+		position: relative;
+		}
+
+		#conteudo {
+		position: absolute;
+
+		left: 50%;
+            	top: 50%;
+
+            	transform: translate(-50%, -50%);
+		}
+
+	op2:
+		#container {
+		display: flex;
+            	justify-content: center;
+            	align-items: center;
+		}
+		
