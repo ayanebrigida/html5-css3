@@ -1,0 +1,1 @@
+estudar: flex box greed leyout, breakpoints, RegEX
